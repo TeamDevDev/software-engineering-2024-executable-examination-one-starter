@@ -115,8 +115,8 @@ def perform_coverage_monitoring(bubble_sort_function: Callable) -> int:
 
 # Part (b) {{{
 
-# Instructions: Implement the following function so that it adheres to all
-# aspects of the following specification.
+# Instructions: Implement and/or report the following function so that it
+# adheres to all aspects of the following specification.
 
 # Function specification:
 # The function fuzzer should:
@@ -156,8 +156,8 @@ def generate_fuzzer_values(
 
 # Part (c) {{{
 
-# Instructions: Implement the following function so that it adheres to all
-# aspects of the following specification.
+# Instructions: Implement and/or repair the following function so that it
+# adheres to all aspects of the following specification.
 
 # Function specification:
 # The function cgi_decode should:
