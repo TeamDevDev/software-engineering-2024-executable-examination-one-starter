@@ -43,7 +43,7 @@ please see the course instructor during the assessment time period. You must
 read and ensure that you understand all of the instructions in this file before
 starting the assessment.
 
-## 😁 TODO: Student Name
+## 😁 TODO: Student Name <-- Add Your Name Here
 
 TODO: You must delete `Student Name` and add your name to the subsection header
 
