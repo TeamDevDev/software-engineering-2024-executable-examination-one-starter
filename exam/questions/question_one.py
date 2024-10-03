@@ -103,7 +103,7 @@ def call_bubble_sort_for_restricted_coverage() -> None:
 
 def perform_coverage_monitoring(bubble_sort_function: Callable) -> int:
     """Run the coverage monitoring process."""
-    # Do not edit this function
+    # do not edit this function
     sys.settrace(trace_lines)
     bubble_sort_function()
     sys.settrace(None)
